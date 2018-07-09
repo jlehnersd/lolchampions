@@ -1,2 +1,3 @@
 # lolchampions
-Contains files and code for League of Legends champion text analysis
+
+Contains files and code for League of Legends champion classification by text analysis of champion abilities
