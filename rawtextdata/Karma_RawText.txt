@@ -1,0 +1,521 @@
+
+<!-- saved from url=(0060)https://na.leagueoflegends.com/en/game-info/champions/Karma/ -->
+<html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache no-svg no-inlinesvg no-smil no-svgclippaths media-queries box-sizing"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>Karma | League of Legends</title><link rel="stylesheet" href="./KarmaWebData_files/lol-kit.css"><link rel="stylesheet" href="./KarmaWebData_files/base-styles.css"><link rel="stylesheet" href="./KarmaWebData_files/champion-details.css"><link href="./KarmaWebData_files/video-js.css" rel="stylesheet"><link rel="SHORTCUT ICON" href="https://lolstatic-a.akamaihd.net/lolkit/1.1.6/resources/images/favicon.ico"><style>.stat-ad       { background: url("https://lolstatic-a.akamaihd.net/frontpage/apps/prod/LolGameInfo-Harbinger/en_US/8588e206d560a23f4d6dd0faab1663e13e84e21d/assets/assets/images/stat-icons-sprite.png") no-repeat 0 0; }.stat-armor    { background: url("https://lolstatic-a.akamaihd.net/frontpage/apps/prod/LolGameInfo-Harbinger/en_US/8588e206d560a23f4d6dd0faab1663e13e84e21d/assets/assets/images/stat-icons-sprite.png") no-repeat 0 -25px; }.stat-as       { background: url("https://lolstatic-a.akamaihd.net/frontpage/apps/prod/LolGameInfo-Harbinger/en_US/8588e206d560a23f4d6dd0faab1663e13e84e21d/assets/assets/images/stat-icons-sprite.png") no-repeat 0 -50px; }.stat-ms       { background: url("https://lolstatic-a.akamaihd.net/frontpage/apps/prod/LolGameInfo-Harbinger/en_US/8588e206d560a23f4d6dd0faab1663e13e84e21d/assets/assets/images/stat-icons-sprite.png") no-repeat 0 -75px; }.stat-mr       { background: url("https://lolstatic-a.akamaihd.net/frontpage/apps/prod/LolGameInfo-Harbinger/en_US/8588e206d560a23f4d6dd0faab1663e13e84e21d/assets/assets/images/stat-icons-sprite.png") no-repeat 0 -125px; }.stat-hp       { background: url("https://lolstatic-a.akamaihd.net/frontpage/apps/prod/LolGameInfo-Harbinger/en_US/8588e206d560a23f4d6dd0faab1663e13e84e21d/assets/assets/images/stat-icons-sprite.png") no-repeat 0 -150px; }.stat-hp-regen { background: url("https://lolstatic-a.akamaihd.net/frontpage/apps/prod/LolGameInfo-Harbinger/en_US/8588e206d560a23f4d6dd0faab1663e13e84e21d/assets/assets/images/stat-icons-sprite.png") no-repeat 0 -175px; }.stat-mana     { background: url("https://lolstatic-a.akamaihd.net/frontpage/apps/prod/LolGameInfo-Harbinger/en_US/8588e206d560a23f4d6dd0faab1663e13e84e21d/assets/assets/images/stat-icons-sprite.png") no-repeat 0 -200px; }.stat-m-regen  { background: url("https://lolstatic-a.akamaihd.net/frontpage/apps/prod/LolGameInfo-Harbinger/en_US/8588e206d560a23f4d6dd0faab1663e13e84e21d/assets/assets/images/stat-icons-sprite.png") no-repeat 0 -225px; }</style><div class="fit-vids-style">­<style>               .fluid-width-video-wrapper {                 width: 100%;                              position: relative;                       padding: 0;                            }                                                                                   .fluid-width-video-wrapper iframe,        .fluid-width-video-wrapper object,        .fluid-width-video-wrapper embed {           position: absolute;                       top: 0;                                   left: 0;                                  width: 100%;                              height: 100%;                          }                                       </style></div><script type="text/javascript" src="./KarmaWebData_files/modernizr.js"></script><script type="text/javascript" src="./KarmaWebData_files/ping-0.1.663.min.js"></script><style type="text/css">@font-face{font-family:BeaufortLoL;src:url(https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Regular.eot?#iefix) format("embedded-opentype"),url(https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Regular.woff) format("woff"),url(https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Regular.ttf) format("truetype"),url(https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Regular.svg#svgFontName) format("svg")}@font-face{font-family:BeaufortLoL;src:url(https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Bold.eot?#iefix) format("embedded-opentype"),url(https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Bold.woff) format("woff"),url(https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Bold.ttf) format("truetype"),url(https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Bold.svg#svgFontName) format("svg");font-weight:700}@font-face{font-family:BeaufortLoL;src:url(https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Italic.eot?#iefix) format("embedded-opentype"),url(https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Italic.woff) format("woff"),url(https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Italic.ttf) format("truetype"),url(https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Italic.svg#svgFontName) format("svg");font-style:italic}body.riotbar-present{margin:0;margin-top:52px;overflow-x:hidden;padding:0;position:relative}.riotbar-clearfix{zoom:1}.riotbar-clearfix:after,.riotbar-clearfix:before{content:"";display:table}.riotbar-clearfix:after{clear:both}.riotbar-base-element,.riotbar-base-element a,.riotbar-base-element div,.riotbar-base-element em,.riotbar-base-element h1,.riotbar-base-element h2,.riotbar-base-element h3,.riotbar-base-element h4,.riotbar-base-element h5,.riotbar-base-element h6,.riotbar-base-element img,.riotbar-base-element li,.riotbar-base-element ol,.riotbar-base-element span,.riotbar-base-element strong,.riotbar-base-element ul{margin:0;padding:0;border:0;outline:0;font-size:100%;font:inherit;vertical-align:baseline;-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-font-smoothing:antialiased}.riotbar-base-element ol,.riotbar-base-element ul{list-style:none}.riotbar-base-element,.riotbar-base-element *{box-sizing:border-box}.riotbar-base-element .riotbar-pagewidth{position:relative;width:100%;margin:0 auto;padding:0 5px}.riotbar-base-element a,.riotbar-base-element a:link,.riotbar-base-element a:visited{text-decoration:none;color:#c9aa71}.riotbar-base-element a:hover{color:#f1e6d0}.riotbar-base-element a.active,.riotbar-base-element a:active{color:#FFF}#riotbar-bar{background-color:#121212;border-bottom:2px solid #262626;font-family:BeaufortLoL,"Times New Roman";font-size:14px!important;font-weight:700;height:52px;line-height:normal;position:absolute;text-align:left;top:-52px;width:100%;z-index:3000000}#riotbar-bar .riotbar-bar-content{text-align:center}#riotbar-bar .riotbar-left-content,#riotbar-bar .riotbar-right-content{bottom:0;position:absolute;top:0}#riotbar-bar .riotbar-left-content{left:5px}#riotbar-bar .riotbar-right-content{right:5px}#riotbar-subbar{position:absolute;top:0;width:100%;z-index:10;pointer-events:none;text-align:left}#riotbar-subbar .riotbar-subcontent{pointer-events:auto}#riotbar-alerts{position:absolute;width:100%;z-index:10}#riotbar-alerts a:link,#riotbar-alerts a:visited{color:#71B5BD;text-decoration:none}#riotbar-alerts a.active,#riotbar-alerts a:active,#riotbar-alerts a:hover{color:#FFF}#riotbar-alerts a.btn-gold-trim:link,#riotbar-alerts a.btn-gold-trim:visited{font-family:BeaufortLoL,"Times New Roman";color:#dec58d;font-weight:700;padding:2px 10px;border-radius:4px;text-decoration:none;margin:-2px 0 -2px 10px;display:inline;display:inline-block;cursor:pointer;background-color:#151515;background:linear-gradient(to bottom,#313131 0,#000 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#313131', endColorstr='#000000', GradientType=0);border:1px solid #766e4c;text-transform:uppercase}#riotbar-alerts a.btn-gold-trim.active,#riotbar-alerts a.btn-gold-trim:active,#riotbar-alerts a.btn-gold-trim:hover{color:#F7DA9B}@charset "UTF-8";#riotbar-navbar{display:inline-block;font-size:0;height:52px;margin-right:0;max-width:100%;opacity:1;overflow:hidden;text-align:center}#riotbar-navbar a{border-bottom:2px solid transparent;color:#c9aa71;display:inline-block;font-size:14px;font-weight:700;line-height:48px;margin:0 .85em;overflow:hidden;padding-top:2px;text-transform:uppercase;transition:color 1s cubic-bezier(.06,.81,0,.98)}#riotbar-navbar a:hover{color:#f1e6d0}#riotbar-navbar a.riotbar-navbar-title{font-size:18px;color:#f1e6d0;line-height:50px;padding-top:0}#riotbar-navbar a.riotbar-navbar-title:hover{color:#f1e6d0}#riotbar-navbar a.riotbar-active-link{border-color:#c79a3c;color:#fff}#riotbar-navbar .riotbar-explore-label{display:none;line-height:1.2;margin-top:8px;text-transform:uppercase}#riotbar-navbar .riotbar-explore-subtitle{color:#a09a8e;font-size:10px}#riotbar-navbar .riotbar-explore-title{color:#f1e6d0;font-size:18px}#riotbar-navbar .riotbar-navbar-separator{border-left:2px solid #262626;display:inline-block;font-size:14px;height:30px;margin:10px .25em;vertical-align:top}#riotbar-navbar .riotbar-navbar-separator.riotbar-title-separator{margin-right:.85em}#riotbar-navbar.riotbar-fade-left{margin-right:10%;opacity:0}#riotbar-navbar.riotbar-fade-right{margin-right:-10%;opacity:0}@media (max-width:1115px){#riotbar-navbar a{margin:0 .6375em}#riotbar-navbar .riotbar-navbar-separator.riotbar-title-separator{margin-right:.6375em}}@media (max-width:1115px){#riotbar-navbar a{margin:0 .6375em}#riotbar-navbar .riotbar-navbar-separator.riotbar-title-separator{margin-right:.6375em}}@media (max-width:1024px){.riotbar-mobile-responsive #riotbar-navbar .riotbar-navbar-link,.riotbar-mobile-responsive #riotbar-navbar .riotbar-navbar-separator{display:none}.riotbar-mobile-responsive #riotbar-navbar .riotbar-explore-label{display:inline-block}}#riotbar-navmenu{color:#c9aa71;float:right;font-size:14px;height:50px}#riotbar-navmenu .riotbar-explore{cursor:pointer;display:inline-block;font-size:0;font-weight:700;height:50px;line-height:1;min-width:36px;text-transform:uppercase}#riotbar-navmenu .riotbar-explore:hover .riotbar-explore-subtitle{color:#f1e6d0}#riotbar-navmenu .riotbar-logo{background:url(https://cdn.leagueoflegends.com/riotbar/prod/1.6.165/images/navigation/icon-game-lol.png?1529678730) no-repeat 5px 8px;display:inline-block;height:50px;padding-left:50px}#riotbar-navmenu .riotbar-explore-label{display:none;opacity:0;position:relative;transition:opacity .5s linear}#riotbar-navmenu .riotbar-explore-subtitle{color:#a09a8e;display:inline-block;font-size:10px;margin:11px 13px 1px -200px;transition:color 1s cubic-bezier(.06,.81,0,.98),padding-left 1.5s cubic-bezier(0,.98,.25,1)}#riotbar-navmenu .riotbar-explore-title{color:#f1e6d0;font-size:18px;margin:0 13px 0 -200px;opacity:1;transition:padding-left .5s linear}#riotbar-navmenu .riotbar-explore-arrow{background:url(https://cdn.leagueoflegends.com/riotbar/prod/1.6.165/images/bar/dropdown-trigger.png?1529678730) no-repeat center top;display:none;float:right;height:5px;margin:25px 0 0 0;opacity:0;transition:opacity .5s linear,transform .5s ease-out;width:8px}#riotbar-navmenu .riotbar-navmenu-dropdown{background:#111;border-top:2px solid #262626;box-shadow:-3px 3px 6px rgba(0,0,0,.5);left:-5px;margin:0;opacity:0;overflow:hidden;padding:18px;position:absolute;text-align:left;transform:translateY(-5%);top:50px;visibility:hidden;width:460px;z-index:10}#riotbar-navmenu a.riotbar-back-link{background:url(https://cdn.leagueoflegends.com/riotbar/prod/1.6.165/images/navigation/arrow-left.png?1529678730) no-repeat left 2px;border-bottom:2px dotted #262626;cursor:pointer;display:block;font-size:14px;line-height:16px;margin-bottom:18px;padding:0 0 9px 18px;position:relative;text-transform:uppercase;transition:color 1s cubic-bezier(.06,.81,0,.98)}#riotbar-navmenu a.riotbar-back-link div{background:url(https://cdn.leagueoflegends.com/riotbar/prod/1.6.165/images/navigation/arrow-left-hover.png?1529678730) no-repeat;height:14px;left:0;opacity:0;position:absolute;top:2px;transition:opacity 1s cubic-bezier(.06,.81,0,.98);width:14px}#riotbar-navmenu a.riotbar-back-link:hover div{opacity:1}#riotbar-navmenu .riotbar-navmenu-category{border-top:2px solid #262626;margin-top:18px;padding-top:18px;overflow:visible;position:relative}#riotbar-navmenu .riotbar-navmenu-category .riotbar-category-name{color:#f1e6d0;font-size:14px;margin-bottom:9px;text-transform:uppercase}#riotbar-navmenu .riotbar-navmenu-category.riotbar-first-category{border-top:0;margin-top:0;padding-top:0}#riotbar-navmenu .riotbar-navmenu-category:after,#riotbar-navmenu .riotbar-navmenu-category:before{content:' ';display:table}#riotbar-navmenu .riotbar-navmenu-category:after{clear:both}#riotbar-navmenu .riotbar-left-column{border-right:2px dotted #262626;float:left;width:50%}#riotbar-navmenu .riotbar-right-column{margin-left:212px;padding-left:1em}#riotbar-navmenu .riotbar-navmenu-links,#riotbar-navmenu .riotbar-navmenu-touchpoints{transition:opacity .2s linear}#riotbar-navmenu .riotbar-navmenu-touchpoints{display:block}#riotbar-navmenu .riotbar-navmenu-links{display:none}#riotbar-navmenu a.riotbar-navmenu-link{display:block;font-size:18px;margin:1em 0;text-transform:uppercase;transition:color 1s cubic-bezier(.06,.81,0,.98)}#riotbar-navmenu a.riotbar-navmenu-link .riotbar-link-subtext{color:#a09a8e;display:block;font-family:helvetica,arial,sans-serif;font-size:11px;text-transform:none}#riotbar-navmenu a.riotbar-navmenu-link.riotbar-active-link{color:#fff}#riotbar-navmenu a.riotbar-navmenu-link:first-child{margin-top:0}#riotbar-navmenu a.riotbar-navmenu-link:last-child{margin-bottom:0}#riotbar-navmenu .riotbar-navmenu-dropdown{transition:transform .5s,opacity .5s}#riotbar-navmenu .riotbar-explore-arrow,#riotbar-navmenu .riotbar-explore-label{opacity:1}#riotbar-navmenu .riotbar-explore-subtitle{padding-left:200px}#riotbar-navmenu .riotbar-explore-title{padding-left:200px}#riotbar-navmenu.riotbar-has-links .riotbar-explore-label{display:inline-block}#riotbar-navmenu.riotbar-has-links .riotbar-explore-arrow{display:block}#riotbar-navmenu.riotbar-menu-transition .riotbar-navmenu-links,#riotbar-navmenu.riotbar-menu-transition .riotbar-navmenu-touchpoints{opacity:0}#riotbar-navmenu.riotbar-show-links .riotbar-navmenu-touchpoints{display:none}#riotbar-navmenu.riotbar-show-links .riotbar-navmenu-links{display:block}.riotbar-not-responsive #riotbar-navmenu.riotbar-has-links:hover .riotbar-navmenu-dropdown{visibility:visible;transform:translateX(0);opacity:1}.riotbar-not-responsive #riotbar-navmenu.riotbar-has-links:hover .riotbar-explore-arrow{transform:rotate(180deg)}@media (min-width:1025px){.riotbar-mobile-responsive #riotbar-navmenu.riotbar-has-links:hover .riotbar-navmenu-dropdown{visibility:visible;transform:translateX(0);opacity:1}.riotbar-mobile-responsive #riotbar-navmenu.riotbar-has-links:hover .riotbar-explore-arrow{transform:rotate(180deg)}}@media (max-width:1024px){.riotbar-mobile-responsive #riotbar-navmenu{content:'sidebar'}.riotbar-mobile-responsive #riotbar-navmenu .riotbar-left-column,.riotbar-mobile-responsive #riotbar-navmenu .riotbar-right-column{border:0 none;float:none;margin:1em auto;padding:0;width:auto}.riotbar-mobile-responsive #riotbar-navmenu .riotbar-left-column:first-child,.riotbar-mobile-responsive #riotbar-navmenu .riotbar-right-column:first-child{margin-top:0}.riotbar-mobile-responsive #riotbar-navmenu .riotbar-left-column:last-child,.riotbar-mobile-responsive #riotbar-navmenu .riotbar-right-column:last-child{margin-bottom:0}.riotbar-mobile-responsive #riotbar-navmenu .riotbar-navmenu-dropdown{transform:translateX(-100%);width:248px}.riotbar-mobile-responsive #riotbar-navmenu .riotbar-explore-label,.riotbar-mobile-responsive #riotbar-navmenu.riotbar-has-links .riotbar-explore-label{display:none}.riotbar-mobile-responsive #riotbar-navmenu .riotbar-explore-arrow{background:0 0;display:block;font-size:26px;left:45px;line-height:1;margin:0;position:absolute;text-align:center;transition:none;top:12px;width:26px}.riotbar-mobile-responsive #riotbar-navmenu .riotbar-explore-arrow,.riotbar-mobile-responsive #riotbar-navmenu .riotbar-explore-arrow:hover{color:#c9aa71}.riotbar-mobile-responsive #riotbar-navmenu .riotbar-explore-arrow:before{content:'☰';display:block}.riotbar-mobile-responsive #riotbar-navmenu.riotbar-click-active .riotbar-navmenu-dropdown{visibility:visible;transform:translateX(0);opacity:1}.riotbar-mobile-responsive #riotbar-navmenu.riotbar-click-active .riotbar-explore-arrow{top:10px;transform:rotate(0deg)}.riotbar-mobile-responsive #riotbar-navmenu.riotbar-click-active .riotbar-explore-arrow:before{content:'×'}}#riotbar-account{float:left;white-space:nowrap}#riotbar-account .riotbar-anonymous-link{cursor:pointer;display:inline-block;margin:16px 15px;text-transform:uppercase;transition:color 1s cubic-bezier(.06,.81,0,.98);vertical-align:middle}#riotbar-account .riotbar-anonymous-link[data-riotbar-link-id=signup]{background:url(https://cdn.leagueoflegends.com/riotbar/prod/1.6.165/images/account/sprites-s2a5147f733.png) 0 -293px;color:#b2d9db;float:right;height:41px;line-height:28px;margin:5px 0 0 17px;padding:6px 0 0 0;position:relative;text-align:center;width:129px;z-index:0}.i18n-hu #riotbar-account .riotbar-anonymous-link[data-riotbar-link-id=signup]{font-size:13px;letter-spacing:-.6px}#riotbar-account .riotbar-anonymous-link[data-riotbar-link-id=signup]:active{background:url(https://cdn.leagueoflegends.com/riotbar/prod/1.6.165/images/account/sprites-s2a5147f733.png) 0 -181px;color:#005a82}#riotbar-account .riotbar-anonymous-link[data-riotbar-link-id=signup]:before{background:url(https://cdn.leagueoflegends.com/riotbar/prod/1.6.165/images/account/sprites-s2a5147f733.png) 0 -237px;content:'';height:100%;left:0;opacity:0;position:absolute;transition:opacity 1s cubic-bezier(.06,.81,0,.98);top:0;width:100%;z-index:-1}#riotbar-account .riotbar-anonymous-link[data-riotbar-link-id=signup]:after{border-left:2px solid #262626;content:'';height:30px;left:-15px;position:absolute;top:5px}#riotbar-account .riotbar-anonymous-link[data-riotbar-link-id=signup]:hover:before{opacity:1}#riotbar-account.riotbar-login-image [data-riotbar-link-id=login]{background:url(https://cdn.leagueoflegends.com/riotbar/prod/1.6.165/images/account/sprites-s2a5147f733.png) 0 -136px;color:transparent;font-size:0;height:30px;margin-top:10px;margin-bottom:10px;width:30px}#riotbar-account.riotbar-login-image [data-riotbar-link-id=login]:hover{background:url(https://cdn.leagueoflegends.com/riotbar/prod/1.6.165/images/account/sprites-s2a5147f733.png) 0 -91px}#riotbar-account .riotbar-summoner-name{color:#f1e6d0;font-size:18px;font-weight:700;text-shadow:1px 1px 1px rgba(0,0,0,.7);text-transform:uppercase}#riotbar-account .riotbar-summoner-region{color:#a09a8e;font-size:10px;margin-top:-2px;text-transform:uppercase;transition:color 1s cubic-bezier(.06,.81,0,.98)}@media (max-width:640px){.riotbar-mobile-responsive #riotbar-account .riotbar-anonymous-link{display:none}.riotbar-mobile-responsive #riotbar-account .riotbar-anonymous-link.riotbar-account-action{display:inline-block}}#riotbar-account-bar{border-left:2px solid #262626;cursor:pointer;float:right;height:30px;margin:10px 0;padding:0 4px 0 10px}#riotbar-account-bar .riotbar-summoner-icon{border:2px solid;border-color:#8F7514 #C9A932;border-radius:100%;float:left;height:30px;margin-right:10px;width:30px}#riotbar-account-bar .riotbar-summoner-info{float:left;margin:-3px 11px -10px 0}#riotbar-account-bar .riotbar-account-arrow{background:url(https://cdn.leagueoflegends.com/riotbar/prod/1.6.165/images/bar/dropdown-trigger.png?1529678730) no-repeat center top;float:left;height:5px;margin:15px 0 0 0;transition:transform .5s ease-out;width:8px}#riotbar-account-bar.active .riotbar-account-arrow{transform:rotate(180deg)}.riotbar-not-responsive #riotbar-account-bar:hover .riotbar-summoner-region{color:#f1e6d0}.riotbar-not-responsive #riotbar-account-bar:hover .riotbar-account-arrow{transform:rotate(180deg)}@media (min-width:1025px){.riotbar-mobile-responsive #riotbar-account-bar:hover .riotbar-summoner-region{color:#f1e6d0}.riotbar-mobile-responsive #riotbar-account-bar:hover .riotbar-account-arrow{transform:rotate(180deg)}}@media (max-width:640px){.riotbar-mobile-responsive #riotbar-account-bar{border-left:none}.riotbar-mobile-responsive #riotbar-account-bar .riotbar-summoner-info{display:none}}#riotbar-account-dropdown-plugins{height:50px;position:absolute;right:0;top:12px}#riotbar-account-dropdown{background:#111;border-top:2px solid #262626;box-shadow:-3px 3px 6px rgba(0,0,0,.5);right:-5px;margin:0;opacity:0;overflow:hidden;padding:18px;position:absolute;text-align:left;transform:translateY(-5%);transition:transform .5s,opacity .5s;top:50px;visibility:hidden;z-index:10}#riotbar-account-dropdown .riotbar-account-info{border-bottom:1px solid #262626;display:none;margin-bottom:18px;padding-bottom:18px}#riotbar-account-dropdown .riotbar-account-info .riotbar-summoner-name{max-width:175px;overflow:hidden;text-overflow:ellipsis}@media (max-width:640px){.riotbar-mobile-responsive #riotbar-account-dropdown .riotbar-account-info{display:block}}#riotbar-account.active #riotbar-account-dropdown{opacity:1;transform:translateX(0);visibility:visible;width:320px}@media (min-width:1025px){#riotbar-account-dropdown{width:248px}#riotbar-account:hover #riotbar-account-dropdown{opacity:1;transform:translateX(0);visibility:visible}}@media (max-width:1024px){.riotbar-mobile-responsive #riotbar-account-dropdown{content:'sidebar';transform:none;transition:width .5s,opacity .5s;width:0}}#riotbar-account-dropdown-links{font-size:0;position:relative;white-space:normal}#riotbar-account-dropdown-links a.riotbar-account-link{cursor:pointer;display:block;font-size:18px;margin:18px 0;text-transform:uppercase;transition:color 1s cubic-bezier(.06,.81,0,.98);width:212px}#riotbar-account-dropdown-links a.riotbar-account-link .riotbar-link-subtext{color:#a09a8e;display:block;font-family:helvetica,arial,sans-serif;font-size:11px;text-transform:none}#riotbar-account-dropdown-links a.riotbar-account-link:first-child{margin-top:0}#riotbar-account-dropdown-links a.riotbar-account-link:last-child{margin-bottom:0}#riotbar-account-warning{background:rgba(0,0,0,.7);color:#d3cba1;font-family:Tahoma,Verdana,Segoe,sans-serif;font-size:13px;line-height:20px;text-shadow:0 0 3px #000,0 0 5px #000;padding:10px 210px 10px 10px;position:absolute;width:100%;margin:0 -5px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}#riotbar-account-warning a{color:#d3cba1}#riotbar-account-warning a span{color:#9FC0C7}#riotbar-account-warning a:hover span{color:#71B5BD}@media screen and (min-width:960px){#riotbar-account-warning{text-align:center;padding-left:210px}}#riotbar-service-status{float:left;height:30px;margin:10px 10px 10px 0;position:relative}.service-status-indicator{height:30px;width:30px;position:relative}#riotbar-service-status-icon{cursor:pointer;height:30px;width:30px;background:url(https://cdn.leagueoflegends.com/riotbar/prod/1.6.165/images/service-status/sprites-s83d00d90c2.png) 0 -80px;text-indent:-9999px;text-align:left;overflow:hidden}#riotbar-service-status-icon.severity-info{background:url(https://cdn.leagueoflegends.com/riotbar/prod/1.6.165/images/service-status/sprites-s83d00d90c2.png) 0 -80px}#riotbar-service-status-icon.severity-info:hover{background:url(https://cdn.leagueoflegends.com/riotbar/prod/1.6.165/images/service-status/sprites-s83d00d90c2.png) 0 -40px}#riotbar-service-status-icon.severity-info.active{background:url(https://cdn.leagueoflegends.com/riotbar/prod/1.6.165/images/service-status/sprites-s83d00d90c2.png) 0 0}#riotbar-service-status-icon.severity-warn{background:url(https://cdn.leagueoflegends.com/riotbar/prod/1.6.165/images/service-status/sprites-s83d00d90c2.png) 0 -320px}#riotbar-service-status-icon.severity-warn:hover{background:url(https://cdn.leagueoflegends.com/riotbar/prod/1.6.165/images/service-status/sprites-s83d00d90c2.png) 0 -280px}#riotbar-service-status-icon.severity-warn.active{background:url(https://cdn.leagueoflegends.com/riotbar/prod/1.6.165/images/service-status/sprites-s83d00d90c2.png) 0 -240px}#riotbar-service-status-icon.severity-error{background:url(https://cdn.leagueoflegends.com/riotbar/prod/1.6.165/images/service-status/sprites-s83d00d90c2.png) 0 -200px}#riotbar-service-status-icon.severity-error:hover{background:url(https://cdn.leagueoflegends.com/riotbar/prod/1.6.165/images/service-status/sprites-s83d00d90c2.png) 0 -160px}#riotbar-service-status-icon.severity-error.active{background:url(https://cdn.leagueoflegends.com/riotbar/prod/1.6.165/images/service-status/sprites-s83d00d90c2.png) 0 -120px}#riotbar-service-status-messages{position:absolute;z-index:10;display:none;width:350px;left:-230px;top:48px;border-radius:5px;background-color:#192D3A;background:linear-gradient(#1F394B,#0D1417);border:1px solid #213744;border-color:#7e744e #b6a671 #55513a #b6a671;box-shadow:inset 0 0 3px 1px rgba(0,0,0,.3),-1px 1px 10px 0 rgba(0,0,0,.8);color:#fff}#riotbar-service-status-messages:before{content:"";display:block;background:url(https://cdn.leagueoflegends.com/riotbar/prod/1.6.165/images/service-status/sprites-s83d00d90c2.png) 0 -360px;height:10px;width:10px;position:absolute;top:-5px;right:100px}#riotbar-service-status-messages.active{display:block}#riotbar-service-status-messages .status-message{border-bottom:1px solid #4A5355;border-bottom:1px solid rgba(47,96,109,.3);padding:10px;position:relative}#riotbar-service-status-messages .status-message:last-child{border-bottom:none}#riotbar-service-status-messages .status-message.closed .message-toggle{transform:rotate(180deg)}#riotbar-service-status-messages .status-message.closed .message-text{display:none}#riotbar-service-status-messages .status-message .message-summary{cursor:pointer;position:relative}#riotbar-service-status-messages .status-message .message-toggle{position:absolute;top:2px;left:0;height:16px;width:16px;border-radius:10px;border:1px solid #7e744e;border-color:#7e744e #b6a671;background:transparent url(https://cdn.leagueoflegends.com/riotbar/prod/1.6.165/images/bar/dropdown-trigger.png?1529678730) no-repeat 50% 50%}#riotbar-service-status-messages .status-message .severity-indicator{position:absolute;top:-5px;right:-5px;height:30px;width:30px;-moz-transform:scale(.75,.75);-ms-transform:scale(.75,.75);-webkit-transform:scale(.75,.75);transform:scale(.75,.75)}#riotbar-service-status-messages .status-message .severity-indicator.severity-info{background:url(https://cdn.leagueoflegends.com/riotbar/prod/1.6.165/images/service-status/sprites-s83d00d90c2.png) 0 -80px}#riotbar-service-status-messages .status-message .severity-indicator.severity-warn{background:url(https://cdn.leagueoflegends.com/riotbar/prod/1.6.165/images/service-status/sprites-s83d00d90c2.png) 0 -320px}#riotbar-service-status-messages .status-message .severity-indicator.severity-error{background:url(https://cdn.leagueoflegends.com/riotbar/prod/1.6.165/images/service-status/sprites-s83d00d90c2.png) 0 -200px}#riotbar-service-status-messages .status-message .message-title{margin:0 30px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:#E4DFD3;font-weight:700}#riotbar-service-status-messages .status-message a.message-text{display:block;margin:4px 10px 0 30px;color:#9B9480;font-family:Tahoma,Verdana,Segoe,sans-serif;font-weight:100;font-size:12px;line-height:1.4em}#riotbar-service-status-messages .status-message a.message-text:active,#riotbar-service-status-messages .status-message a.message-text:hover{color:#C1BBA9}#riotbar-account-anonymous #riotbar-service-status{top:9px}#riotbar-locale{float:right;position:relative;font-family:Tahoma,Verdana,Segoe,sans-serif;font-size:13px;color:#9FC0C7}#riotbar-locale a:link,#riotbar-locale a:visited{color:#93A3AA;text-decoration:none}#riotbar-locale a:active,#riotbar-locale a:hover{color:#71B5BD}#riotbar-locale-switch-trigger{text-align:right;text-shadow:0 0 3px #000,0 0 5px #000;height:20px;line-height:20px;margin:.25em 0;white-space:nowrap;position:relative;cursor:pointer;padding-right:20px}#riotbar-locale-switch-trigger:after{content:" ";display:block;position:absolute;background:url(https://cdn.leagueoflegends.com/riotbar/prod/1.6.165/images/bar/dropdown-trigger-blue.png?1529678730) no-repeat 50% 50%;height:100%;width:20px;right:0;top:0}#riotbar-locale-switch-trigger .language{color:#71B5BD}#riotbar-locale-switch-dropdown{background-color:#1F394B;background:linear-gradient(#1F394B,#0D1417);border:1px solid #314148;border-color:#314148 #2d3d42 #1f292c #232f33;border-radius:4px;padding:10px;display:none;width:200px;float:right}#riotbar-locale-switch-dropdown.active{display:block}#riotbar-locale-switch-dropdown .region-list{list-style:none;margin:0;padding:0}#riotbar-locale-switch-dropdown .riotbar-locale-languages{display:none;margin:.5em .8em 0;*zoom:1}#riotbar-locale-switch-dropdown .riotbar-locale-languages.active{display:block}#riotbar-locale-switch-dropdown .riotbar-locale-languages:after,#riotbar-locale-switch-dropdown .riotbar-locale-languages:before{content:" ";display:table}#riotbar-locale-switch-dropdown .riotbar-locale-languages:after{clear:both}#riotbar-locale-switch-dropdown .locale-list{list-style:none;margin:0;padding:0;line-height:1.75em}#riotbar-locale-switch-dropdown .locale-list li{float:left;width:50%}#riotbar-region-switcher{position:relative}#riotbar-region-switcher.active #riotbar-region-dropdown-trigger{border-radius:4px 4px 0 0}#riotbar-region-switcher.active #riotbar-region-dropdown-trigger:after{transform:rotate(180deg)}#riotbar-region-switcher.active #riotbar-region-dropdown{display:block}#riotbar-region-dropdown-trigger{background-color:#2D4F69;background:linear-gradient(#2D4F69,#17252A);border:1px solid #2D4F69;border-radius:4px;padding:.25em .5em;position:relative;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;display:block;color:#FFF}#riotbar-region-dropdown-trigger:hover{cursor:pointer;color:#FFF;background-color:#396181;background:linear-gradient(#396181,#17282F)}#riotbar-region-dropdown-trigger:after{content:" ";display:block;position:absolute;background:url(https://cdn.leagueoflegends.com/riotbar/prod/1.6.165/images/bar/dropdown-trigger.png?1529678730) no-repeat 50% 50%;height:100%;width:20px;right:0;top:0}#riotbar-region-dropdown{background-color:#13212C;background:linear-gradient(#13212C,#0A1012);border:1px solid #2D4F69;border-radius:0 0 4px 4px;padding:4px 0;position:absolute;width:100%;margin-top:-1px;display:none}#riotbar-region-dropdown .riotbar-region-option{padding:.15em .5em;cursor:pointer;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}#riotbar-region-dropdown .riotbar-region-option.disabled,#riotbar-region-dropdown .riotbar-region-option.disabled:active,#riotbar-region-dropdown .riotbar-region-option.disabled:hover{color:#FFF;cursor:default}#riotbar-region-dropdown .riotbar-region-option:active,#riotbar-region-dropdown .riotbar-region-option:hover{color:#FFF}</style><link rel="stylesheet" type="text/css" href="./KarmaWebData_files/view.css"></head><body class="small-header-noplay riotbar-present" id="riot-101" style="position: relative;"><div id="ChampionBackdrop" style="background-image: url(&quot;https://lolstatic-a.akamaihd.net/game-info/1.1.9/images/champion/backdrop/bg-karma.jpg&quot;); opacity: 1;"></div><div id="DefaultBackdrop" class="backdrop" style="display: none;"></div><div id="header"><div id="header-content"><div id="main-navigation"><ul class="gs-container gs-table"><li><a href="https://na.leagueoflegends.com/en/game-info/get-started/">Get Started</a><div class="nav-dropdown-trigger"><div class="nav-dropdown-container"><div class="nav-dropdown-magic-bl"></div><div class="nav-dropdown-magic-br"></div><ul><li><a href="https://na.leagueoflegends.com/en/game-info/get-started/what-is-lol/">What is League of Legends?</a></li><li><a href="https://na.leagueoflegends.com/en/site/guide/index.html">New Player Guide</a></li><li><a href="https://na.leagueoflegends.com/en/game-info/get-started/chat-commands/">Chat Commands</a></li><li><a href="https://na.leagueoflegends.com/en/game-info/get-started/community-interaction/">Community Interaction</a></li><li><a href="https://na.leagueoflegends.com/en/featured/summoners-code">The Summoner's Code</a></li></ul></div></div></li><li><a href="https://na.leagueoflegends.com/en/game-info/champions/">Champions</a></li><li><a href="https://na.leagueoflegends.com/en/game-info/items/">Items</a></li><li><a href="https://na.leagueoflegends.com/en/game-info/summoners/">Summoners</a><div class="nav-dropdown-trigger"><div class="nav-dropdown-container"><div class="nav-dropdown-magic-bl"></div><div class="nav-dropdown-magic-br"></div><ul><li><a href="https://na.leagueoflegends.com/en/game-info/summoners/spells/">Summoner Spells</a></li></ul></div></div></li><li><a href="https://na.leagueoflegends.com/en/game-info/game-modes/">Game Modes</a><div class="nav-dropdown-trigger"><div class="nav-dropdown-container"><div class="nav-dropdown-magic-bl"></div><div class="nav-dropdown-magic-br"></div><ul><li><a href="https://na.leagueoflegends.com/en/game-info/game-modes/summoners-rift/">Summoner's Rift</a></li><li><a href="https://na.leagueoflegends.com/en/game-info/game-modes/the-twisted-treeline/">The Twisted Treeline</a></li><li><a href="https://na.leagueoflegends.com/en/game-info/game-modes/howling-abyss/">Howling Abyss</a></li></ul></div></div></li></ul></div></div></div><div id="ChampionLookupResults" class="hidden" style="display:none"></div><div id="ItemsLookupResults" class="hidden" style="display:none"></div><div id="breadcrumbs"><ol><li><a href="https://na.leagueoflegends.com/en/">Home</a></li><li><a href="https://na.leagueoflegends.com/en/game-info/">Game Info</a></li><li><a href="https://na.leagueoflegends.com/en/game-info/champions/">Champions</a></li></ol></div><div id="spacer"><div id="champ_header" class="independent"><h1 class="dd-auto-set" data-property="name">Karma</h1><h3><em class="dd-auto-set" data-property="title">the Enlightened One</em></h3></div></div><div class="section-wrapper section-wrapper-primary"><div class="section-wrapper-top"></div><div class="section-wrapper-content"><div class="section-quickbg"></div><div class="section-wrapper-content-wrapper"><div class="gs-container"><div class="default-1-2"><div class="content-border"><div class="white-stone"><div class="white-stone-content"><div class="gs-container"><div class="default-1-3"><img class="dd-set-image-champion-icon" src="./KarmaWebData_files/Karma.png"></div><div class="default-2-3"><h3 class="dd-auto-set" data-property="name">Karma</h3><span class="dd-auto-set" data-property="title">the Enlightened One</span></div></div></div></div><div class="white-stone"><div class="white-stone-content"><div class="gs-container"><div class="default-1-2"><p><span class="stat-label stat-hp">Health:</span><span class="stat-value"><span class="dd-auto-set" data-property="stats.hp">534</span>&nbsp;(+<span class="dd-auto-set" data-property="stats.hpperlevel">95</span>&nbsp;per level)</span></p><p><span class="stat-label stat-ad">Attack Damage:</span><span class="stat-value"><span class="dd-auto-set" data-property="stats.attackdamage">53.544</span>&nbsp;(+<span class="dd-auto-set" data-property="stats.attackdamageperlevel">3.3</span>&nbsp;per level)</span></p><p><span class="stat-label stat-as">Attack Speed:</span><span class="stat-value"><span class="dd-auto-set" data-property="stats.attackspeed">0.625</span>&nbsp;(+<span class="dd-auto-set" data-property="stats.attackspeedperlevel">2.3</span>%&nbsp;per level)</span></p><p><span class="stat-label stat-ms">Movement Speed:</span><span class="stat-value">&nbsp;<span class="dd-auto-set" data-property="stats.movespeed">335</span></span></p></div><div class="default-1-2"><p><span class="stat-label stat-hp-regen">Health Regen:</span><span class="stat-value"><span class="dd-auto-set" data-property="stats.hpregen">5.5</span>&nbsp;(+<span class="dd-auto-set" data-property="stats.hpregenperlevel">0.55</span>&nbsp;per level)</span></p><p><span class="stat-label stat-armor">Armor:</span><span class="stat-value"><span class="dd-auto-set" data-property="stats.armor">20.384</span>&nbsp;(+<span class="dd-auto-set" data-property="stats.armorperlevel">3.8</span>&nbsp;per level)</span></p><p><span class="stat-label stat-mr">Magic Resist:</span><span class="stat-value"><span class="dd-auto-set" data-property="stats.spellblock">30</span>&nbsp;(+<span class="dd-auto-set" data-property="stats.spellblockperlevel">0.5</span>&nbsp;per level)</span></p></div></div></div></div></div></div><div class="default-1-2"><div id="ChampionSpotlightContainer" class="content-border"><iframe id="ChampionSpotlightVideo" width="450" height="253" src="./KarmaWebData_files/lWIj3IRz8DI.html" frameborder="0" allowfullscreen=""></iframe></div><h3 style="margin-bottom: 10px;">Abilities</h3><div id="ability-summary" class="gs-container no-vertical-gutter"><div class="default-1-5"><span class="content-border"><a href="https://na.leagueoflegends.com/en/game-info/champions/Karma/#SpellP"><img class="dd-set-image-ability-P" src="./KarmaWebData_files/Karma_Passive.png"></a></span></div><div class="default-1-5"><span class="content-border"><a href="https://na.leagueoflegends.com/en/game-info/champions/Karma/#SpellQ"><img class="dd-set-image-ability-Q" src="./KarmaWebData_files/KarmaQ.png"></a></span></div><div class="default-1-5"><span class="content-border"><a href="https://na.leagueoflegends.com/en/game-info/champions/Karma/#SpellW"><img class="dd-set-image-ability-W" src="./KarmaWebData_files/KarmaSpiritBind.png"></a></span></div><div class="default-1-5"><span class="content-border"><a href="https://na.leagueoflegends.com/en/game-info/champions/Karma/#SpellE"><img class="dd-set-image-ability-E" src="./KarmaWebData_files/KarmaSolKimShield.png"></a></span></div><div class="default-1-5"><span class="content-border"><a href="https://na.leagueoflegends.com/en/game-info/champions/Karma/#SpellR"><img class="dd-set-image-ability-R" src="./KarmaWebData_files/KarmaMantra.png"></a></span></div></div><div class="default-1-1" style="margin-top:10px"><a id="UniverseLink" href="https://universe.leagueoflegends.com/en_US/champion/karma" class="btn-large btn-large-primary" style="width:100%;">Learn about Karma on Universe</a></div></div></div><div class="content-border"><header class="header-primary accent-before"><h2>Skins</h2></header></div><!-- amh-todo need to make these skins a light box whatever again --><div id="SkinsContainer" class="gs-container default-3-col"><div>
+<div class="content-border">
+<a class="skins" title="default" href="./KarmaWebData_files/Karma_0.jpg">
+<img src="./KarmaWebData_files/Karma_0.jpg">
+</a>
+</div>
+</div><div>
+<div class="content-border">
+<a class="skins" title="default" href="./KarmaWebData_files/Karma_1.jpg">
+<img src="./KarmaWebData_files/Karma_1.jpg">
+</a>
+</div>
+</div><div>
+<div class="content-border">
+<a class="skins" title="default" href="./KarmaWebData_files/Karma_2.jpg">
+<img src="./KarmaWebData_files/Karma_2.jpg">
+</a>
+</div>
+</div><div>
+<div class="content-border">
+<a class="skins" title="default" href="./KarmaWebData_files/Karma_3.jpg">
+<img src="./KarmaWebData_files/Karma_3.jpg">
+</a>
+</div>
+</div><div>
+<div class="content-border">
+<a class="skins" title="default" href="./KarmaWebData_files/Karma_4.jpg">
+<img src="./KarmaWebData_files/Karma_4.jpg">
+</a>
+</div>
+</div><div>
+<div class="content-border">
+<a class="skins" title="default" href="./KarmaWebData_files/Karma_5.jpg">
+<img src="./KarmaWebData_files/Karma_5.jpg">
+</a>
+</div>
+</div><div>
+<div class="content-border">
+<a class="skins" title="default" href="./KarmaWebData_files/Karma_6.jpg">
+<img src="./KarmaWebData_files/Karma_6.jpg">
+</a>
+</div>
+</div><div>
+<div class="content-border">
+<a class="skins" title="default" href="./KarmaWebData_files/Karma_7.jpg">
+<img src="./KarmaWebData_files/Karma_7.jpg">
+</a>
+</div>
+</div></div></div></div><div class="section-wrapper-bottom"></div></div><div class="section-wrapper"><div class="section-wrapper-top"></div><div class="section-wrapper-content"><div class="section-quickbg"></div><div class="section-wrapper-content-wrapper"><div class="content-border"><header class="header-primary accent-before"><h2>Abilities</h2></header></div><div class="gs-container" id="SpellP"><div id="PData" class="default-1-1"><div class="gs-container"><div id="PIcon" class="default-1-10"><span class="content-border"><img class="dd-set-image-ability-P" src="./KarmaWebData_files/Karma_Passive.png"></span></div><div id="PName" class="default-9-10"><h3 class="dd-auto-set" data-property="passive.name">Gathering Fire</h3><p></p></div><div class="default-1-1"><p class="spell-description dd-auto-set" data-property="passive.description">Reduces Mantra's cooldown each time Karma damages an enemy champion with one of her abilities (Half-effect for Karma's basic attacks)</p><p class="spell-description dd-auto-set" data-property="passive.tooltip" data-transforms="parse_tooltip"></p></div></div></div><div id="PVideoDiv" class="default-2-5" style="display:none"><div class="content-border"><video id="PVideo" controls="" class="video-js vjs-default-skin" width="348" height="196"></video></div></div></div><hr class="divider"><div class="gs-container" id="SpellQ"><div id="QData" class="default-3-5"><div class="gs-container"><div id="QIcon" class="default-1-6"><span class="content-border"><img class="dd-set-image-ability-Q" src="./KarmaWebData_files/KarmaQ.png"></span></div><div id="QName" class="default-5-6"><h3 class="dd-auto-set" data-property="spells.0.name">Inner Flame</h3><p><b>Cost:</b> <span id="QCost">50/55/60/65/70 Mana</span><br><b>Range:</b> <span class="dd-auto-set" data-property="spells.0.rangeBurn">950</span></p></div><div class="default-1-1"><p class="spell-description dd-auto-set" data-property="spells.0.description">Karma sends forth a ball of spirit energy that explodes and deals damage upon hitting an enemy unit.<br><br>Mantra Bonus: In addition to the explosion, Mantra increases the destructive power of her Inner Flame, creating a cataclysm which deals damage after a short delay.</p><p class="spell-description dd-auto-set" data-property="spells.0.tooltip" data-transforms="parse_tooltip">Fires a blast of energy that explodes upon enemy contact, dealing 80/125/170/215/260 <span class="color99FF99">(+60% Ability Power)</span> magic damage and slowing Movement Speed by 25% for 1.5 seconds.<br> <span class="colorFF9900">Mantra Bonus - Soulflare:</span> Deals NaN <span class="color99FF99">(+30% Ability Power)</span> additional magic damage and leaves a circle of flame that slows enemies by [0]%. After 1.5 seconds the circle erupts, dealing NaN <span class="color99FF99">(+60% Ability Power)</span> magic damage to enemies in the area.</p></div></div></div><div id="QVideoDiv" class="default-2-5" style="display: block;"><div class="content-border"><div id="QVideo" class="video-js vjs-default-skin vjs-paused" width="348" height="196" style="width: 348px; height: 196px;"><video id="QVideo_html5_api" class="vjs-tech" src="https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0043/ability_0043_Q1.webm"></video><img class="vjs-poster" src="./KarmaWebData_files/ability_0043_Q1.jpg" tabindex="-1"><div class="vjs-text-track-display"></div><div class="vjs-loading-spinner" style="display: none;"><div class="ball1"></div><div class="ball2"></div><div class="ball3"></div><div class="ball4"></div><div class="ball5"></div><div class="ball6"></div><div class="ball7"></div><div class="ball8"></div></div><div class="vjs-big-play-button" tabindex="0"><span></span></div><div class="vjs-controls"><div class="vjs-play-control vjs-control " tabindex="0"><div><span class="vjs-control-text">Play</span></div></div><div class="vjs-fullscreen-control vjs-control " tabindex="0"><div><span class="vjs-control-text">Fullscreen</span></div></div><div class="vjs-current-time vjs-time-controls vjs-control"><div class="vjs-current-time-display">0:00</div></div><div class="vjs-time-divider"><div><span>/</span></div></div><div class="vjs-duration vjs-time-controls vjs-control"><div class="vjs-duration-display">0:00</div></div><div class="vjs-remaining-time vjs-time-controls vjs-control"><div class="vjs-remaining-time-display">-0:00</div></div><div class="vjs-progress-control vjs-control"><div aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" tabindex="0" class="vjs-progress-holder"><div class="vjs-load-progress" style="width: 41.03%;"><span class="vjs-control-text">Loaded: 0%</span></div><div class="vjs-play-progress" style="width: 0%;"><span class="vjs-control-text">Progress: 0%</span></div><div class="vjs-seek-handle" style="left: 0%;"><span class="vjs-control-text">00:00</span></div></div></div><div class="vjs-volume-control vjs-control"><div aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" tabindex="0" class="vjs-volume-bar"><div class="vjs-volume-level" style="width: 100%;"><span class="vjs-control-text"></span></div><div class="vjs-volume-handle" style="left: 100%;"><span class="vjs-control-text"></span></div></div></div><div class="vjs-mute-control vjs-control" tabindex="0"><div><span class="vjs-control-text">Mute</span></div></div><div class="vjs-subtitles-button vjs-menu-button vjs-control " tabindex="0" style="display: none;"><div><span class="vjs-control-text">Subtitles</span></div><ul class="vjs-menu"><li class="vjs-menu-title">Subtitles</li><li class="vjs-menu-item" tabindex="0">Off</li></ul></div><div class="vjs-captions-button vjs-menu-button vjs-control " tabindex="0" style="display: none;"><div><span class="vjs-control-text">Captions</span></div><ul class="vjs-menu"><li class="vjs-menu-title">Captions</li><li class="vjs-menu-item" tabindex="0">Off</li></ul></div><div class="vjs-chapters-button vjs-menu-button vjs-control " tabindex="0" style="display: none;"><div><span class="vjs-control-text">Chapters</span></div><ul class="vjs-menu"><li class="vjs-menu-title">Chapters</li></ul></div></div></div></div></div></div><hr class="divider"><div class="gs-container" id="SpellW"><div id="WData" class="default-3-5"><div class="gs-container"><div id="WIcon" class="default-1-6"><span class="content-border"><img class="dd-set-image-ability-W" src="./KarmaWebData_files/KarmaSpiritBind.png"></span></div><div id="WName" class="default-5-6"><h3 class="dd-auto-set" data-property="spells.1.name">Focused Resolve</h3><p><b>Cost:</b> <span id="WCost">50/55/60/65/70 Mana</span><br><b>Range:</b> <span class="dd-auto-set" data-property="spells.1.rangeBurn">675</span></p></div><div class="default-1-1"><p class="spell-description dd-auto-set" data-property="spells.1.description">Karma creates a tether between herself and a targeted enemy, dealing damage and revealing them. If the tether is not broken, the enemy will be rooted and damaged again.<br><br>Mantra Bonus: Karma strengthens the link, healing herself and extending the root duration.</p><p class="spell-description dd-auto-set" data-property="spells.1.tooltip" data-transforms="parse_tooltip">Links Karma to an enemy champion or monster, granting <span class="coloree91d7">True Sight</span> and dealing {{ effect1amount*0.5 }} <span class="color99FF99">(+0) </span>magic damage. If the link is unbroken for 2 seconds, the target is rooted for 1/1.25/1.5/1.75/2 second(s) and takes an additional {{ effect1amount*0.5 }} <span class="color99FF99">(+0) </span>magic damage.<br><span class="colorFF9900">Mantra Bonus - Renewal:</span> Karma is healed for [NaN]% <span class="color99FF99">(+[0]%)</span> of her missing health. If the link is not broken or the target dies, the root duration is increased by 0 second(s) and Karma is healed for [NaN]% <span class="color99FF99">(+[0]%)</span> of her missing health.</p></div></div></div><div id="WVideoDiv" class="default-2-5" style="display: block;"><div class="content-border"><div id="WVideo" class="video-js vjs-default-skin vjs-paused" width="348" height="196" style="width: 348px; height: 196px;"><video id="WVideo_html5_api" class="vjs-tech" src="https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0043/ability_0043_W1.webm"></video><img class="vjs-poster" src="./KarmaWebData_files/ability_0043_W1.jpg" tabindex="-1"><div class="vjs-text-track-display"></div><div class="vjs-loading-spinner" style="display: none;"><div class="ball1"></div><div class="ball2"></div><div class="ball3"></div><div class="ball4"></div><div class="ball5"></div><div class="ball6"></div><div class="ball7"></div><div class="ball8"></div></div><div class="vjs-big-play-button" tabindex="0"><span></span></div><div class="vjs-controls"><div class="vjs-play-control vjs-control " tabindex="0"><div><span class="vjs-control-text">Play</span></div></div><div class="vjs-fullscreen-control vjs-control " tabindex="0"><div><span class="vjs-control-text">Fullscreen</span></div></div><div class="vjs-current-time vjs-time-controls vjs-control"><div class="vjs-current-time-display">0:00</div></div><div class="vjs-time-divider"><div><span>/</span></div></div><div class="vjs-duration vjs-time-controls vjs-control"><div class="vjs-duration-display">0:00</div></div><div class="vjs-remaining-time vjs-time-controls vjs-control"><div class="vjs-remaining-time-display">-0:00</div></div><div class="vjs-progress-control vjs-control"><div aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" tabindex="0" class="vjs-progress-holder"><div class="vjs-load-progress" style="width: 35.06%;"><span class="vjs-control-text">Loaded: 0%</span></div><div class="vjs-play-progress" style="width: 0%;"><span class="vjs-control-text">Progress: 0%</span></div><div class="vjs-seek-handle" style="left: 0%;"><span class="vjs-control-text">00:00</span></div></div></div><div class="vjs-volume-control vjs-control"><div aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" tabindex="0" class="vjs-volume-bar"><div class="vjs-volume-level" style="width: 100%;"><span class="vjs-control-text"></span></div><div class="vjs-volume-handle" style="left: 100%;"><span class="vjs-control-text"></span></div></div></div><div class="vjs-mute-control vjs-control" tabindex="0"><div><span class="vjs-control-text">Mute</span></div></div><div class="vjs-subtitles-button vjs-menu-button vjs-control " tabindex="0" style="display: none;"><div><span class="vjs-control-text">Subtitles</span></div><ul class="vjs-menu"><li class="vjs-menu-title">Subtitles</li><li class="vjs-menu-item" tabindex="0">Off</li></ul></div><div class="vjs-captions-button vjs-menu-button vjs-control " tabindex="0" style="display: none;"><div><span class="vjs-control-text">Captions</span></div><ul class="vjs-menu"><li class="vjs-menu-title">Captions</li><li class="vjs-menu-item" tabindex="0">Off</li></ul></div><div class="vjs-chapters-button vjs-menu-button vjs-control " tabindex="0" style="display: none;"><div><span class="vjs-control-text">Chapters</span></div><ul class="vjs-menu"><li class="vjs-menu-title">Chapters</li></ul></div></div></div></div></div></div><hr class="divider"><div class="gs-container" id="SpellE"><div id="EData" class="default-3-5"><div class="gs-container"><div id="EIcon" class="default-1-6"><span class="content-border"><img class="dd-set-image-ability-E" src="./KarmaWebData_files/KarmaSolKimShield.png"></span></div><div id="EName" class="default-5-6"><h3 class="dd-auto-set" data-property="spells.2.name">Inspire</h3><p><b>Cost:</b> <span id="ECost">60/65/70/75/80 Mana</span><br><b>Range:</b> <span class="dd-auto-set" data-property="spells.2.rangeBurn">800</span></p></div><div class="default-1-1"><p class="spell-description dd-auto-set" data-property="spells.2.description">Karma summons a protective shield that absorbs incoming damage and increases the Movement Speed of the protected ally.<br><br>Mantra Bonus: Energy radiates out from her target, strengthening the initial shield and applying Inspire to nearby allied champions.</p><p class="spell-description dd-auto-set" data-property="spells.2.tooltip" data-transforms="parse_tooltip">Target ally gains a shield, granting 40/45/50/55/60% Movement Speed for 1.5 seconds and absorbing 70/95/120/145/170 <span class="color99FF99">(+50% Ability Power)</span> damage for 2.5 seconds.<br><span class="colorFF9900">Mantra Bonus - Defiance:</span> The shield overflows with energy, absorbing an additional NaN <span class="color99FF99">(+60% Ability Power)</span> damage. Nearby allied champions gain shields that absorb [0]% as much as the initial target's shield. All champions shielded gain [0]% movement speed for 1.5 seconds.</p></div></div></div><div id="EVideoDiv" class="default-2-5" style="display: block;"><div class="content-border"><div id="EVideo" class="video-js vjs-default-skin vjs-paused" width="348" height="196" style="width: 348px; height: 196px;"><video id="EVideo_html5_api" class="vjs-tech" src="https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0043/ability_0043_E1.webm"></video><img class="vjs-poster" src="./KarmaWebData_files/ability_0043_E1.jpg" tabindex="-1"><div class="vjs-text-track-display"></div><div class="vjs-loading-spinner" style="display: none;"><div class="ball1"></div><div class="ball2"></div><div class="ball3"></div><div class="ball4"></div><div class="ball5"></div><div class="ball6"></div><div class="ball7"></div><div class="ball8"></div></div><div class="vjs-big-play-button" tabindex="0"><span></span></div><div class="vjs-controls"><div class="vjs-play-control vjs-control " tabindex="0"><div><span class="vjs-control-text">Play</span></div></div><div class="vjs-fullscreen-control vjs-control " tabindex="0"><div><span class="vjs-control-text">Fullscreen</span></div></div><div class="vjs-current-time vjs-time-controls vjs-control"><div class="vjs-current-time-display">0:00</div></div><div class="vjs-time-divider"><div><span>/</span></div></div><div class="vjs-duration vjs-time-controls vjs-control"><div class="vjs-duration-display">0:00</div></div><div class="vjs-remaining-time vjs-time-controls vjs-control"><div class="vjs-remaining-time-display">-0:00</div></div><div class="vjs-progress-control vjs-control"><div aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" tabindex="0" class="vjs-progress-holder"><div class="vjs-load-progress" style="width: 43.4%;"><span class="vjs-control-text">Loaded: 0%</span></div><div class="vjs-play-progress" style="width: 0%;"><span class="vjs-control-text">Progress: 0%</span></div><div class="vjs-seek-handle" style="left: 0%;"><span class="vjs-control-text">00:00</span></div></div></div><div class="vjs-volume-control vjs-control"><div aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" tabindex="0" class="vjs-volume-bar"><div class="vjs-volume-level" style="width: 100%;"><span class="vjs-control-text"></span></div><div class="vjs-volume-handle" style="left: 100%;"><span class="vjs-control-text"></span></div></div></div><div class="vjs-mute-control vjs-control" tabindex="0"><div><span class="vjs-control-text">Mute</span></div></div><div class="vjs-subtitles-button vjs-menu-button vjs-control " tabindex="0" style="display: none;"><div><span class="vjs-control-text">Subtitles</span></div><ul class="vjs-menu"><li class="vjs-menu-title">Subtitles</li><li class="vjs-menu-item" tabindex="0">Off</li></ul></div><div class="vjs-captions-button vjs-menu-button vjs-control " tabindex="0" style="display: none;"><div><span class="vjs-control-text">Captions</span></div><ul class="vjs-menu"><li class="vjs-menu-title">Captions</li><li class="vjs-menu-item" tabindex="0">Off</li></ul></div><div class="vjs-chapters-button vjs-menu-button vjs-control " tabindex="0" style="display: none;"><div><span class="vjs-control-text">Chapters</span></div><ul class="vjs-menu"><li class="vjs-menu-title">Chapters</li></ul></div></div></div></div></div></div><hr class="divider"><div class="gs-container" id="SpellR"><div id="RData" class="default-3-5"><div class="gs-container"><div id="RIcon" class="default-1-6"><span class="content-border"><img class="dd-set-image-ability-R" src="./KarmaWebData_files/KarmaMantra.png"></span></div><div id="RName" class="default-5-6"><h3 class="dd-auto-set" data-property="spells.3.name">Mantra</h3><p><b>Cost:</b> <span id="RCost">No Cost</span><br><b>Range:</b> <span class="dd-auto-set" data-property="spells.3.rangeBurn">1100</span></p></div><div class="default-1-1"><p class="spell-description dd-auto-set" data-property="spells.3.description">Karma empowers her next ability to do an additional effect. Mantra is available at level 1 and does not require a skill point.</p><p class="spell-description dd-auto-set" data-property="spells.3.tooltip" data-transforms="parse_tooltip">Karma empowers her next ability within 8 seconds for an additional effect.<br> <span class="colorFF9900">Soulflare: </span>Deals bonus damage and leaves behind a circle of flame, slowing enemies and dealing additional damage.<br> <span class="colorFF9900">Renewal: </span>Karma heals for a portion of her missing health. If the link is unbroken the root is longer and Karma is healed again.<br><span class="colorFF9900">Defiance: </span>The shield is stronger and allied champions around the target also gain a shield and movement speed.</p></div></div></div><div id="RVideoDiv" class="default-2-5" style="display: block;"><div class="content-border"><div id="RVideo" class="video-js vjs-default-skin vjs-paused" width="348" height="196" style="width: 348px; height: 196px;"><video id="RVideo_html5_api" class="vjs-tech" src="https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0043/ability_0043_R1.webm"></video><img class="vjs-poster" src="./KarmaWebData_files/ability_0043_R1.jpg" tabindex="-1"><div class="vjs-text-track-display"></div><div class="vjs-loading-spinner" style="display: none;"><div class="ball1"></div><div class="ball2"></div><div class="ball3"></div><div class="ball4"></div><div class="ball5"></div><div class="ball6"></div><div class="ball7"></div><div class="ball8"></div></div><div class="vjs-big-play-button" tabindex="0"><span></span></div><div class="vjs-controls"><div class="vjs-play-control vjs-control " tabindex="0"><div><span class="vjs-control-text">Play</span></div></div><div class="vjs-fullscreen-control vjs-control " tabindex="0"><div><span class="vjs-control-text">Fullscreen</span></div></div><div class="vjs-current-time vjs-time-controls vjs-control"><div class="vjs-current-time-display">0:00</div></div><div class="vjs-time-divider"><div><span>/</span></div></div><div class="vjs-duration vjs-time-controls vjs-control"><div class="vjs-duration-display">0:00</div></div><div class="vjs-remaining-time vjs-time-controls vjs-control"><div class="vjs-remaining-time-display">-0:00</div></div><div class="vjs-progress-control vjs-control"><div aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" tabindex="0" class="vjs-progress-holder"><div class="vjs-load-progress" style="width: 8.12%;"><span class="vjs-control-text">Loaded: 0%</span></div><div class="vjs-play-progress" style="width: 0%;"><span class="vjs-control-text">Progress: 0%</span></div><div class="vjs-seek-handle" style="left: 0%;"><span class="vjs-control-text">00:00</span></div></div></div><div class="vjs-volume-control vjs-control"><div aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" tabindex="0" class="vjs-volume-bar"><div class="vjs-volume-level" style="width: 100%;"><span class="vjs-control-text"></span></div><div class="vjs-volume-handle" style="left: 100%;"><span class="vjs-control-text"></span></div></div></div><div class="vjs-mute-control vjs-control" tabindex="0"><div><span class="vjs-control-text">Mute</span></div></div><div class="vjs-subtitles-button vjs-menu-button vjs-control " tabindex="0" style="display: none;"><div><span class="vjs-control-text">Subtitles</span></div><ul class="vjs-menu"><li class="vjs-menu-title">Subtitles</li><li class="vjs-menu-item" tabindex="0">Off</li></ul></div><div class="vjs-captions-button vjs-menu-button vjs-control " tabindex="0" style="display: none;"><div><span class="vjs-control-text">Captions</span></div><ul class="vjs-menu"><li class="vjs-menu-title">Captions</li><li class="vjs-menu-item" tabindex="0">Off</li></ul></div><div class="vjs-chapters-button vjs-menu-button vjs-control " tabindex="0" style="display: none;"><div><span class="vjs-control-text">Chapters</span></div><ul class="vjs-menu"><li class="vjs-menu-title">Chapters</li></ul></div></div></div></div></div></div></div></div><div class="section-wrapper-bottom"></div></div><div id="footer"><div id="footer-content"><div class="gs-container vertical-gutter"><div class="default-1-5"><div id="riot-social"><a class="riot-logo" href="https://www.riotgames.com/">Riot Games</a><ul class="social-links"><li><a class="youtube" title="" href="https://www.youtube.com/user/riotgamesinc">YouTube.com</a></li><li><a class="twitter" title="" href="https://twitter.com/leagueoflegends">Twitter.com</a></li><li><a class="facebook" title="" href="https://www.facebook.com/leagueoflegends">Facebook.com</a></li></ul></div></div><div class="default-3-5"><p>© 2016 Riot Games, Inc. All rights reserved. Riot Games, League of Legends and PvP.net are trademarks, services marks, or registered trademarks of Riot Games, Inc.</p><div class="data-dragon-version"></div><ul id="footer-sub-nav" class="simple-menu"><li><a href="https://na.leagueoflegends.com/en/legal/privacy"><span class="updated" style="color:red; font-size: 1.1em; font-weight:bold;">updated</span>&nbsp;Privacy Policy</a></li><li><a href="https://na.leagueoflegends.com/en/legal/termsofuse">Terms Of Use</a></li></ul></div></div><div class="ad-bar lol-sponsors gs-container gs-half-gutter vertical-gutter content-center default-1-col"><div><a class="esrb" href="https://www.esrb.org/ratings/ratings_guide.jsp"><img src="./KarmaWebData_files/esrb.jpg" title="Esrb"></a></div></div></div></div><script src="./KarmaWebData_files/jquery.min.js"></script><script type="text/javascript" src="./KarmaWebData_files/riot-all.js"></script><script type="text/javascript" src="./KarmaWebData_files/riot-kit-all.js"></script><script type="text/javascript">rg_force_language = 'en_US';rg_force_manifest = 'https://ddragon.leagueoflegends.com/realms/na.js';rg_assets = 'https://lolstatic-a.akamaihd.net/game-info/1.1.9';</script><script type="text/javascript">dictionary = {'tooltips.ap': "% Ability Power",'tooltips.ad': "% Attack Damage",'tooltips.bonus_ad': "% bonus Attack Damage",'tooltips.armor': "% Armor",'tooltips.hp': "% of maximum Health",'tooltips.bonus_hp': "% of bonus Health",'tooltips.mana': "% of maximum Mana",'tooltips.per': "per",'tooltips.flat_bonus_ad': "bonus Attack Damage",'tooltips.spell_cost': "Cost:",'tooltips.spell_range': "Range:",'tooltips.spell_range_self': "Self",'tooltips.bonus_armor': "% of bonus Armor",'tooltips.bonus_mr': "% of bonus Magic Resistance",'champions.universe_link': "https://universe.leagueoflegends.com/[LOCALE]/champion/[CHAMPION-SLUG]",'champions.universe_link_text': "Learn about [CHAMPION-NAME] on Universe"};</script><script type="text/javascript" src="./KarmaWebData_files/dragonhead.js"></script><script type="text/javascript" async="async" src="./KarmaWebData_files/na.js"></script><script type="text/javascript" src="./KarmaWebData_files/riot-dd-utils.js"></script><script type="text/javascript" src="./KarmaWebData_files/riot-dd-i18n.js"></script><script type="text/javascript" src="./KarmaWebData_files/zencdn.video.js"></script><script type="text/javascript" src="./KarmaWebData_files/jquery.colorbox-min.js"></script><script type="text/javascript" src="./KarmaWebData_files/champion-details-app.js"></script><script type="text/javascript">const CHAMPION_NAME = 'Karma';const PAGE_LOCALE   = 'en_US';const PAGE_LANGUAGE = 'en';</script><script type="text/javascript">window.riotBarConfig = {touchpoints: {activeTouchpoint: 'game'},locale: {landingUrlPattern : 'https://na.leagueoflegends.com//game-info/'}};</script><script async="" src="./KarmaWebData_files/en_US.js"></script><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button id="cboxPrevious"></button><button id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><button id="cboxClose"></button></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div><div class="tooltip" id="riot-102"><div class="tooltip-inner" id="riot-103"></div><div class="tooltip-arrow"></div></div><div id="riot-cd-tooltip-100" class="rg-box-tooltip" style="position: fixed; display: none;"></div><div id="riotbar-bar" class=" i18n-en riotbar-base-element riotbar-not-responsive riotbar-brand-lol" lang="en"><div class="riotbar-left-content"><div id="riotbar-navmenu"><span class="riotbar-explore">
+  <span class="riotbar-explore-arrow"></span>
+  <a class="riotbar-logo" href="https://na.leagueoflegends.com/en/">
+    <span class="riotbar-explore-label">
+      <span class="riotbar-explore-subtitle">Explore</span>
+      <br>
+      <span class="riotbar-explore-title">League<span>
+    </span>
+  </span></span></a>
+</span>
+
+<div class="riotbar-navmenu-dropdown">
+  <div class="riotbar-navmenu-touchpoints">
+    
+  <div class="riotbar-navmenu-category riotbar-first-category">
+    
+      <div class="riotbar-category-name">
+        League of Legends
+      </div>
+    
+    
+      <div class="riotbar-left-column">
+        
+          
+          <a class="riotbar-navmenu-link" href="https://na.leagueoflegends.com/en/" data-riotbar-link-id="home" data-ping-meta="riotbar-content=navigation|riotbar-navigation=home">
+  Home
+  
+    <span class="riotbar-link-subtext">
+      Explore League of Legends
+    </span>
+  
+</a>
+
+        
+          
+          <a class="riotbar-navmenu-link" href="https://na.leagueoflegends.com/en/news/" data-riotbar-link-id="news" data-ping-meta="riotbar-content=navigation|riotbar-navigation=news">
+  News
+  
+    <span class="riotbar-link-subtext">
+      Catch up on League news
+    </span>
+  
+</a>
+
+        
+          
+          <a class="riotbar-navmenu-link riotbar-active-link" href="http://gameinfo.na.leagueoflegends.com/en/game-info/" data-riotbar-link-id="game" data-ping-meta="riotbar-content=navigation|riotbar-navigation=game">
+  Game
+  
+    <span class="riotbar-link-subtext">
+      Learn about League
+    </span>
+  
+</a>
+
+        
+          
+          <a class="riotbar-navmenu-link" href="http://universe.leagueoflegends.com/en_US/" data-riotbar-link-id="universe" data-ping-meta="riotbar-content=navigation|riotbar-navigation=universe">
+  Universe
+  
+    <span class="riotbar-link-subtext">
+      Explore the League universe
+    </span>
+  
+</a>
+
+        
+          
+          
+          
+          
+      </div>
+      <div class="riotbar-right-column">
+        
+          
+          
+          
+          
+          
+          <a class="riotbar-navmenu-link" href="http://nexus.leagueoflegends.com/" data-riotbar-link-id="nexus" data-ping-meta="riotbar-content=navigation|riotbar-navigation=nexus">
+  Nexus
+  
+    <span class="riotbar-link-subtext">
+      Look behind the scenes of League
+    </span>
+  
+</a>
+
+        
+          
+          <a class="riotbar-navmenu-link" href="http://www.lolesports.com/en_US" data-riotbar-link-id="esports" data-ping-meta="riotbar-content=navigation|riotbar-navigation=esports">
+  Esports
+  
+    <span class="riotbar-link-subtext">
+      See pros battle for glory
+    </span>
+  
+</a>
+
+        
+          
+          <a class="riotbar-navmenu-link" href="http://boards.na.leagueoflegends.com/en/" data-riotbar-link-id="boards" data-ping-meta="riotbar-content=navigation|riotbar-navigation=boards">
+  Community
+  
+    <span class="riotbar-link-subtext">
+      Connect &amp; Contribute
+    </span>
+  
+</a>
+
+        
+          
+          <a class="riotbar-navmenu-link" href="https://support.riotgames.com/hc/en-us" data-riotbar-link-id="support" data-ping-meta="riotbar-content=navigation|riotbar-navigation=support">
+  Support
+  
+    <span class="riotbar-link-subtext">
+      Get the help you need
+    </span>
+  
+</a>
+
+        
+      </div>
+    
+  </div>
+
+  <div class="riotbar-navmenu-category">
+    
+      <div class="riotbar-category-name">
+        Riot Games
+      </div>
+    
+    
+      <div>
+        <a class="riotbar-navmenu-link" href="https://na.merch.riotgames.com/en/" data-riotbar-link-id="merchandise" data-ping-meta="riotbar-content=navigation|riotbar-navigation=merchandise">
+  Merchandise
+  
+    <span class="riotbar-link-subtext">
+      Equip yourself IRL
+    </span>
+  
+</a>
+
+      </div>
+    
+  </div>
+
+
+  </div>
+
+  
+</div>
+</div></div><div class=" riotbar-bar-content"><div id="riotbar-navbar" style="padding-left: 0px; padding-right: 0px; margin-left: 0px; visibility: visible;">
+  <span class="riotbar-explore-label">
+    <span class="riotbar-explore-subtitle">Explore</span>
+    <br>
+    <span class="riotbar-explore-title">League</span>
+  </span>
+
+
+
+  
+  
+    
+    
+    <a class="riotbar-navbar-link" href="https://na.leagueoflegends.com/en/news/" data-riotbar-link-id="news">
+      News
+    </a>
+  
+    
+    <a class="riotbar-navbar-link riotbar-active-link" href="http://gameinfo.na.leagueoflegends.com/en/game-info/" data-riotbar-link-id="game">
+      Game
+    </a>
+  
+    
+    <a class="riotbar-navbar-link" href="http://universe.leagueoflegends.com/en_US/" data-riotbar-link-id="universe">
+      Universe
+    </a>
+  
+    
+    <a class="riotbar-navbar-link" href="http://nexus.leagueoflegends.com/" data-riotbar-link-id="nexus">
+      Nexus
+    </a>
+  
+    
+    <a class="riotbar-navbar-link" href="http://www.lolesports.com/en_US" data-riotbar-link-id="esports">
+      Esports
+    </a>
+  
+    
+    <a class="riotbar-navbar-link" href="http://boards.na.leagueoflegends.com/en/" data-riotbar-link-id="boards">
+      Community
+    </a>
+  
+    
+    <a class="riotbar-navbar-link" href="https://support.riotgames.com/hc/en-us" data-riotbar-link-id="support">
+      Support
+    </a>
+  
+
+  
+    <span class="riotbar-navbar-separator"></span>
+  
+  
+    
+    <a class="riotbar-navbar-link" href="https://na.merch.riotgames.com/en/" data-riotbar-link-id="merchandise">
+      Merchandise
+    </a>
+  
+
+</div></div><div class="riotbar-right-content"><div id="riotbar-service-status" data-ping-meta="riotbar-content=service-status"></div><div id="riotbar-account">
+  <a data-riotbar-link-id="signup" class="riotbar-anonymous-link" href="http://signup.na.leagueoflegends.com/en">
+    Play Now
+  </a>
+
+  <a data-riotbar-link-id="login" class="riotbar-anonymous-link riotbar-account-action" data-riotbar-account-action="login">
+    Login
+  </a>
+
+</div></div></div><div id="riotbar-subbar" class=" i18n-en riotbar-base-element"><div class=" riotbar-pagewidth riotbar-subcontent"><div id="riotbar-locale"><div class="riotbar-locale-switch">
+  <div id="riotbar-locale-switch-trigger">
+    <span class="region">North America</span>
+    <span class="language">(English)</span>
+  </div>
+  <div id="riotbar-locale-switch-dropdown">
+    <div id="riotbar-region-switcher">
+      <div id="riotbar-region-dropdown-trigger">North America</div>
+      
+      <div id="riotbar-region-dropdown">
+        <ul class="region-list">
+          
+          <li class="riotbar-region-option disabled" id="riotbar-region-option-na" data-locale-region-id="na">
+            North America
+          </li>
+          
+          <li class="riotbar-region-option" id="riotbar-region-option-euw" data-locale-region-id="euw">
+            EU West
+          </li>
+          
+          <li class="riotbar-region-option" id="riotbar-region-option-eune" data-locale-region-id="eune">
+            EU Nordic &amp; East
+          </li>
+          
+          <li class="riotbar-region-option" id="riotbar-region-option-lan" data-locale-region-id="lan">
+            Latin America North
+          </li>
+          
+          <li class="riotbar-region-option" id="riotbar-region-option-las" data-locale-region-id="las">
+            Latin America South
+          </li>
+          
+          <li class="riotbar-region-option" id="riotbar-region-option-br" data-locale-region-id="br">
+            Brazil
+          </li>
+          
+          <li class="riotbar-region-option" id="riotbar-region-option-jp" data-locale-region-id="jp">
+            Japan
+          </li>
+          
+          <li class="riotbar-region-option" id="riotbar-region-option-ru" data-locale-region-id="ru">
+            Russia
+          </li>
+          
+          <li class="riotbar-region-option" id="riotbar-region-option-tr" data-locale-region-id="tr">
+            Turkey
+          </li>
+          
+          <li class="riotbar-region-option" id="riotbar-region-option-oce" data-locale-region-id="oce">
+            Oceania
+          </li>
+          
+          <li class="riotbar-region-option" id="riotbar-region-option-kr" data-locale-region-id="kr">
+            Republic of Korea
+          </li>
+          
+        </ul>
+      </div>
+    </div>
+    
+    <div id="riotbar-language-sets">
+      
+      <div class="riotbar-locale-languages active" id="riotbar-languages-na">
+        <ul class="locale-list">
+        
+          <li>
+            <a href="https://na.leagueoflegends.com//game-info/">
+              English
+            </a>
+          </li>
+        
+        </ul>
+      </div>
+      
+      <div class="riotbar-locale-languages" id="riotbar-languages-euw">
+        <ul class="locale-list">
+        
+          <li>
+            <a href="https://na.leagueoflegends.com//game-info/">
+              English
+            </a>
+          </li>
+        
+          <li>
+            <a href="https://na.leagueoflegends.com//game-info/">
+              Deutsch
+            </a>
+          </li>
+        
+          <li>
+            <a href="https://na.leagueoflegends.com//game-info/">
+              Español
+            </a>
+          </li>
+        
+          <li>
+            <a href="https://na.leagueoflegends.com//game-info/">
+              Français
+            </a>
+          </li>
+        
+          <li>
+            <a href="https://na.leagueoflegends.com//game-info/">
+              Italiano
+            </a>
+          </li>
+        
+        </ul>
+      </div>
+      
+      <div class="riotbar-locale-languages" id="riotbar-languages-eune">
+        <ul class="locale-list">
+        
+          <li>
+            <a href="https://na.leagueoflegends.com//game-info/">
+              English
+            </a>
+          </li>
+        
+          <li>
+            <a href="https://na.leagueoflegends.com//game-info/">
+              Polski
+            </a>
+          </li>
+        
+          <li>
+            <a href="https://na.leagueoflegends.com//game-info/">
+              Ελληνικά
+            </a>
+          </li>
+        
+          <li>
+            <a href="https://na.leagueoflegends.com//game-info/">
+              Română
+            </a>
+          </li>
+        
+          <li>
+            <a href="https://na.leagueoflegends.com//game-info/">
+              Magyar
+            </a>
+          </li>
+        
+          <li>
+            <a href="https://na.leagueoflegends.com//game-info/">
+              Čeština
+            </a>
+          </li>
+        
+        </ul>
+      </div>
+      
+      <div class="riotbar-locale-languages" id="riotbar-languages-lan">
+        <ul class="locale-list">
+        
+          <li>
+            <a href="https://na.leagueoflegends.com//game-info/">
+              Español
+            </a>
+          </li>
+        
+        </ul>
+      </div>
+      
+      <div class="riotbar-locale-languages" id="riotbar-languages-las">
+        <ul class="locale-list">
+        
+          <li>
+            <a href="https://na.leagueoflegends.com//game-info/">
+              Español
+            </a>
+          </li>
+        
+        </ul>
+      </div>
+      
+      <div class="riotbar-locale-languages" id="riotbar-languages-br">
+        <ul class="locale-list">
+        
+          <li>
+            <a href="https://na.leagueoflegends.com//game-info/">
+              Português
+            </a>
+          </li>
+        
+        </ul>
+      </div>
+      
+      <div class="riotbar-locale-languages" id="riotbar-languages-jp">
+        <ul class="locale-list">
+        
+          <li>
+            <a href="https://na.leagueoflegends.com//game-info/">
+              日本語
+            </a>
+          </li>
+        
+        </ul>
+      </div>
+      
+      <div class="riotbar-locale-languages" id="riotbar-languages-ru">
+        <ul class="locale-list">
+        
+          <li>
+            <a href="https://na.leagueoflegends.com//game-info/">
+              Русский
+            </a>
+          </li>
+        
+        </ul>
+      </div>
+      
+      <div class="riotbar-locale-languages" id="riotbar-languages-tr">
+        <ul class="locale-list">
+        
+          <li>
+            <a href="https://na.leagueoflegends.com//game-info/">
+              Türkçe
+            </a>
+          </li>
+        
+        </ul>
+      </div>
+      
+      <div class="riotbar-locale-languages" id="riotbar-languages-oce">
+        <ul class="locale-list">
+        
+          <li>
+            <a href="https://na.leagueoflegends.com//game-info/">
+              English
+            </a>
+          </li>
+        
+        </ul>
+      </div>
+      
+      <div class="riotbar-locale-languages" id="riotbar-languages-kr">
+        <ul class="locale-list">
+        
+          <li>
+            <a href="http://kr.leagueoflegends.com/">
+              한국어
+            </a>
+          </li>
+        
+        </ul>
+      </div>
+      
+    </div>
+  </div>
+</div>
+</div></div></div><div id="riotbar-alerts" class=" riotbar-alerts riotbar-base-element"></div><div class="ninja rg-box-tooltip rg-display-item_tooltip" data-control="cont1" id="rg-commonbox-tooltip" style="position: fixed; left: 30px; top: 30px;"></div></body></html>
