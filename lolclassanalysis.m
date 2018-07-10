@@ -159,12 +159,12 @@ title("Class Distribution")
 
 
 %------------
-% obtain class prediction accuracy for 100 random partitions
-nTests = 50;
+% obtain class prediction accuracy for n random partitions
+nTests = 100;
 acc = zeros (nTests,1);
 for iTest = 1:nTests
 % randomly partition data for classification training and testing
-cvp = cvpartition(champion.Class,'Holdout',0.15);
+cvp = cvpartition(champion.Class,'Holdout',0.10);
 
 % extract text data and class labels
 textDataTrain = champion.cleanTextData(cvp.training);
@@ -185,7 +185,6 @@ bag = removeInfrequentWords(bag,2);
 
 % construct the classification mdoel based on the training text data
 XTrain = bag.Counts;
-%mdl = fitcecoc(XTrain,YTrain,'Learners',templateLinear('Solver','lbfgs'));
 mdl = fitcecoc(XTrain,YTrain,'Learners','linear');
 
 %------------
@@ -199,6 +198,7 @@ acc(iTest) = sum(YPred == YTest)/numel(YTest);
 
 end
 
+% mean accuracy and standard deviation of accuracy for 100 runs
 accmean = mean(acc)
 accsd   = std(acc)
 
